@@ -1,3 +1,9 @@
+Contributors at NCState GitHub: 
+@igandhi2 (me)
+@bpreier
+@mpavan2
+@lpanjal
+
 Our main project file is "CSC_522_Project_-_Ensemble.ipynb". This contains all of our individual classifiers and our final ensemble classifier.
 We developed our individual classifers in their own files but moved them to the ensemble file when they were done. We also modified them in the ensemble file so they may not match their original files. We have just included the original files for administrative sake.
 
